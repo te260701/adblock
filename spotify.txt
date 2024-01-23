@@ -196,7 +196,6 @@ widgets.pinterest.com
 wpad.communityfibre.co.uk
 wpad.cust.communityfibre.co.uk
 www-alv.google-analytics.com
-www.belkin.com
 www.dream.cf.lifemote.com.communityfibre.co.uk
 www.tm.ak.prd.aadg.trafficmanager.net
 wwwimg.roku.com
